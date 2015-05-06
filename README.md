@@ -1,2 +1,4 @@
-# bash-zip-unpack
-Bash skripta za masovno razširjanje arhivov zip v podmape
+# Skripta za paketno razširjanje arhivov ZIP
+Bash skripta za paketno razširjanje arhivov zip v podmape
+# Spletišče
+http://andrej.mernik.eu/clanki/linux/zip_unpack/
