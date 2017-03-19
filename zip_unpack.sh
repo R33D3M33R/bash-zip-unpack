@@ -1,5 +1,5 @@
 #!/bin/bash
-#Avtor: Andrej Mernik, 2009, http://andrej.mernik.eu/
+#Avtor: Andrej Mernik, 2009-2017, https://andrej.mernik.eu/
 #Licenca: GPLv3
 
 #Mapa, kjer se nahajajo datoteke
